@@ -1,25 +1,16 @@
-Data exploring to Seattle Airbnb
---------------------------------
+# Data exploring to Seattle Airbnb
 
-
-1. Motivation
-=======
 ## 1. Motivation
-
 
 How many property types of airbnb and their price were in Seattle?
 When to visit Seattle is most economy for family tourists living in airbnb?
 Is reviews helpful for choosing airbnb?
-2. File description
-=======
+
+## 2. File description
+
 1. How many property types of airbnb and their price were in Seattle?
 2. When to visit Seattle is most economy for family tourists living in airbnb?
 3. Is reviews helpful for choosing airbnb?
-
-main coding: Seattle Airbnb data exploring.ipynb
-preview version: Seattle Airbnb data exploring.html
-=======
-## 2. File description
 
 - main coding: Seattle Airbnb data exploring.ipynb
 - preview version: Seattle Airbnb data exploring.html
@@ -34,4 +25,3 @@ preview version: Seattle Airbnb data exploring.html
 ## 4. Blog link
 
 https://www.jianshu.com/p/58f40c5410eb
-
